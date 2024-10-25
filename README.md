@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronald-mark
 - 👀 I’m interested in ...Artificial Intelligence.
-- 🌱 I’m currently learning ...Jaramogi Oginga Odinga University of Science and Technology.
+- 🌱 I’m currently learning ...Indian Institute of Technology.
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...github@ronald-mark
 
